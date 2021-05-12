@@ -29,8 +29,8 @@
     - yarn 
 
 #### ⚙ O backend se encontra em outro repositório, pra testar esse projeto você precisa ter clonado o mesmo, basta dá um:
-    - git clone [linkdorepositório] 
-    - cd [nomedorepositorio]
+    - git clone https://github.com/JennifferRufino/back_usuarios
+    - cd back_usuarios
     - npm install
     - npm start 
 
